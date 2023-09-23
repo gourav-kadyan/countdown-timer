@@ -9,13 +9,13 @@ This project is a simple countdown timer that counts down to the New Year. It's 
 - Simple and intuitive user interface.
 
 ## Usage
-1. Visit the [Countdown Timer for New Year](https://countdown-timer-tau-ten.vercel.app/){:target="_blank"} website.
+1. Visit the [Countdown Timer for New Year](https://countdown-timer-tau-ten.vercel.app/){:target="_blank" rel="noopener noreferrer"} website.
 2. The countdown timer will automatically start, showing the time remaining until the New Year.
 3. Enjoy watching the countdown and celebrate when the New Year arrives!
 
 ## Deployment
 You can access the deployed countdown timer using the following link:
-[Countdown Timer for New Year](https://countdown-timer-tau-ten.vercel.app/){:target="_blank"}
+[Countdown Timer for New Year](https://countdown-timer-tau-ten.vercel.app/){:target="_blank" rel="noopener noreferrer"}
 
 ## Technology Used
 - HTML
